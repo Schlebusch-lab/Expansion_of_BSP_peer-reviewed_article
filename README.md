@@ -23,7 +23,6 @@ See: https://i-am-an-african.net/documents
 #
 #### - EGA AfricanNeo_F Dataset ID: EGAD0000
 #
-#
 
 ### - Citation
 #
@@ -32,7 +31,7 @@ See: https://i-am-an-african.net/documents
 
 Preprint available in *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/2023.04.03.535432.abstract
 
-
+# Extended Data
 
 # Supplementary Material
 
