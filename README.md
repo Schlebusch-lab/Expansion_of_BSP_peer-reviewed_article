@@ -2,28 +2,6 @@
 This repository contains files from the publication entitled "The genetic legacy of the expansion of Bantu-speaking peoples in Africa".
 
 ###
-## Additional information
-
-#### - EGA Study ID: EGAS0000
-
-#### - EGA Data Access Agreement: EGAC0000
-See: https://i-am-an-african.net/documents
-#
-#### - EGA AfricanNeo_aDNA Dataset ID: EGAD0000
-#
-#### - EGA AfricanNeo_A Dataset ID: EGAD0000
-#
-#### - EGA AfricanNeo_B Dataset ID: EGAD0000
-#
-#### - EGA AfricanNeo_C Dataset ID: EGAD0000
-#
-#### - EGA AfricanNeo_D Dataset ID: EGAD0000
-#
-#### - EGA AfricanNeo_E Dataset ID: EGAD0000
-#
-#### - EGA AfricanNeo_F Dataset ID: EGAD0000
-#
-
 ### - Citation
 #
 ***The genetic legacy of the expansion of Bantu-speaking peoples in Africa***
@@ -88,4 +66,26 @@ Preprint available in *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/202
 
 ##### [Fig.S 5.6b | All categories of ROH length for the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/05-ROH/Fig.S_5.6b_ROH_categories_plot.html)
 
+#
+###
+# Additional information
 
+## - EGA Study ID: EGAS0000
+
+#### - EGA Data Access Agreement: EGAC0000
+See: https://i-am-an-african.net/documents
+#
+#### - EGA AfricanNeo_aDNA Dataset ID: EGAD0000
+#
+#### - EGA AfricanNeo_A Dataset ID: EGAD0000
+#
+#### - EGA AfricanNeo_B Dataset ID: EGAD0000
+#
+#### - EGA AfricanNeo_C Dataset ID: EGAD0000
+#
+#### - EGA AfricanNeo_D Dataset ID: EGAD0000
+#
+#### - EGA AfricanNeo_E Dataset ID: EGAD0000
+#
+#### - EGA AfricanNeo_F Dataset ID: EGAD0000
+#
