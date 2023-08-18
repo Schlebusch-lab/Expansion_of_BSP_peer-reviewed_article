@@ -4,14 +4,15 @@ This repository contains files from the publication entitled "The genetic legacy
 ###
 ## Additional information
 
-### - EGA Study ID: EGAS0000
+#### - EGA Study ID: EGAS0000
 
-### - EGA Data Access Agreement: EGAC0000
+#### - EGA Data Access Agreement: EGAC0000
 See: https://i-am-an-african.net/documents
 
-### - EGA Dataset ID: EGAD0000
+#### - EGA Dataset ID: EGAD0000
 
 
+#
 
 ### - Citation
 #
