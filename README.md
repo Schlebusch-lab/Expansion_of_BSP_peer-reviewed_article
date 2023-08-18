@@ -9,6 +9,8 @@ This repository contains files from the publication entitled "The genetic legacy
 #### - EGA Data Access Agreement: EGAC0000
 See: https://i-am-an-african.net/documents
 #
+#### - EGA AfricanNeo_aDNA Dataset ID: EGAD0000
+#
 #### - EGA AfricanNeo_A Dataset ID: EGAD0000
 #
 #### - EGA AfricanNeo_B Dataset ID: EGAD0000
@@ -21,7 +23,6 @@ See: https://i-am-an-african.net/documents
 #
 #### - EGA AfricanNeo_F Dataset ID: EGAD0000
 #
-
 #
 
 ### - Citation
