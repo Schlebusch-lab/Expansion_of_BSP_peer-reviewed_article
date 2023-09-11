@@ -70,22 +70,39 @@ Preprint available in *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/202
 ###
 # Additional information
 
-## - EGA Study ID: EGAS0000
+### AfricanNeo aDNA Study EGA ID: EGAS00001007519
+Whole-genome sequencing data from 12 Late Iron Age individuals
+###### - EGA AfricanNeo_aDNA Dataset ID: EGAD00001011320
+Encrypted raw data in *.bam format.
 
-#### - EGA Data Access Agreement: EGAC0000
-See: https://i-am-an-african.net/documents
+### AfricanNeo ModernDNA Study EGA ID: EGAS00001007515
+Genome-wide SNP data of 1,763 participants, including 1,526 Bantu speakers from 147 populations across 14 African countries.
+Encrypted raw autosomal data in *.tped and *.tfam format.
 #
-#### - EGA AfricanNeo_aDNA Dataset ID: EGAD0000
+###### - EGA AfricanNeo_A Dataset ID: EGAD0000
 #
-#### - EGA AfricanNeo_A Dataset ID: EGAD0000
+###### - EGA AfricanNeo_B Dataset ID: EGAD0000
 #
-#### - EGA AfricanNeo_B Dataset ID: EGAD0000
+###### - EGA AfricanNeo_C Dataset ID: EGAD0000
 #
-#### - EGA AfricanNeo_C Dataset ID: EGAD0000
+###### - EGA AfricanNeo_D Dataset ID: EGAD0000
 #
-#### - EGA AfricanNeo_D Dataset ID: EGAD0000
+###### - EGA AfricanNeo_E Dataset ID: EGAD0000
 #
-#### - EGA AfricanNeo_E Dataset ID: EGAD0000
+###### - EGA AfricanNeo_F Dataset ID: EGAD0000
 #
-#### - EGA AfricanNeo_F Dataset ID: EGAD0000
-#
+
+### Data Access Committee EGA ID: EGAC00001003398
+Short name: AfricanNeo Data Access Committee
+
+### Data Access Policy EGA ID: EGAP00001003469
+Policy URL: https://i-am-an-african.net/documents
+
+### Contact person of the AfricanNeo Data Access Committee (DAC):
+#### Carina Schlebusch
+Associate Professor / Senior Lecturer. Human Evolution Program
+Department of Organismal Biology, Evolutionary Biology Centre, Uppsala University
+Norbyvägen 18C, SE-752 36 Uppsala, Sweden
+Email: carina.schlebusch@ebc.uu.se
+
+##
