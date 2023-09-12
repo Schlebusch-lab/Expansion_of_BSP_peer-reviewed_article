@@ -16,17 +16,17 @@ Preprint available in *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/202
 # Supplementary Figures
 
 ## 1- Geographical locations
-##### [Supplementary Fig. 3a | Labels of all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_3a_Map.html)
+##### [Supplementary Fig. 3a | Labels of all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_03a_Map.html)
 
-##### [Supplementary Fig. 3b | Labels of all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_3b_Map.html)
+##### [Supplementary Fig. 3b | Labels of all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_03b_Map.html)
 
-##### [Supplementary Fig. 4a | Labels of all the groups included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_1.4a_Map.html)
+##### [Supplementary Fig. 4a | Labels of all the groups included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04a_Map.html)
 
-##### [Supplementary Fig. 4b | Labels of all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_1.4b_Map.html)
+##### [Supplementary Fig. 4b | Labels of all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04b_Map.html)
 
-##### [Supplementary Fig. 4c | Labels of all the groups included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_4c_Map.html)
+##### [Supplementary Fig. 4c | Labels of all the groups included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04c_Map.html)
 
-##### [Supplementary Fig. 4d | Labels of all the populations included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_4d_Map.html)
+##### [Supplementary Fig. 4d | Labels of all the populations included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04d_Map.html)
 
 https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/main/02-DRM/Suppl_Fig_06a_UMAP.html
 
@@ -34,15 +34,15 @@ https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/ma
 
 ##### [Supplementary Fig. 6a | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06a_UMAP.html)
 
-##### [Supplementary Fig. 6b | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_6b_UMAP.html)
+##### [Supplementary Fig. 6b | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06b_UMAP.html)
 
-##### [Supplementary Fig. 7 | PCA plots for only Bantu-speaking groups](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_7_PCA_Only-BSP_Groups.html)
+##### [Supplementary Fig. 7 | PCA plots for only Bantu-speaking groups](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_07_PCA_Only-BSP_Groups.html)
 
-##### [Supplementary Fig. 7 | PCA plots for only Bantu-speaking populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_7_PCA_Only-BSP_Populations.html)
+##### [Supplementary Fig. 7 | PCA plots for only Bantu-speaking populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_07_PCA_Only-BSP_Populations.html)
 
-##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African groups](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_8_PCA_SSA_Groups.html)
+##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African groups](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_08_PCA_SSA_Groups.html)
 
-##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_8_PCA_SSA_Populations.html)
+##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_08_PCA_SSA_Populations.html)
 
 ##### [Supplementary Fig. 11 | PCA plots for all the groups included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_11_PCA_AfricanNeo_Groups.html)
 
