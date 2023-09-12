@@ -92,10 +92,10 @@ Short name: AfricanNeo Data Access Committee
 Policy URL: https://i-am-an-african.net/documents
 
 ### Contact person of the AfricanNeo Data Access Committee (DAC):
-#### Carina Schlebusch
+#### Carina Schlebusch. Email: carina.schlebusch@ebc.uu.se
 Associate Professor / Senior Lecturer. Human Evolution Program
 Department of Organismal Biology, Evolutionary Biology Centre, Uppsala University
 Norbyvägen 18C, SE-752 36 Uppsala, Sweden
-Email: carina.schlebusch@ebc.uu.se
+
 
 ##
