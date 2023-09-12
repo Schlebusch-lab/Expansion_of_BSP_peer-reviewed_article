@@ -52,7 +52,7 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 
 
 ## 5- Supplementary Linguistic Data
-Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
+Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
 
 #
 ###
