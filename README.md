@@ -1,5 +1,6 @@
 # Expansion_of_BSP_peer-reviewed_article
 This repository contains online material from the AfricanNeo Project.
+
 ###
 ### - Citation
 #
@@ -47,12 +48,15 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 
 ##### [Supplementary Fig. 41 | All categories of ROH length only for BSP the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_41_BSP_ROH.html)
 
-### 4- Ancient DNA
+### -
 
+## 4- Ancient DNA
+
+### -
 
 
 ## 5- Supplementary Linguistic Data
-Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
+Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
 
 #
 ###
@@ -63,11 +67,11 @@ The AfricanNeo Project (ERC grant agreement ID: 759933) was led by Carina Schleb
 ### AfricanNeo aDNA Study EGA ID: EGAS00001007519
 Whole-genome sequencing data from 12 Late Iron Age individuals
 ###### - EGA AfricanNeo_aDNA Dataset ID: EGAD00001011320
-Encrypted raw data in *.bam format.
+Encrypted raw data are available in *.bam format.
 
 ### AfricanNeo ModernDNA Study EGA ID: EGAS00001007515
 Genome-wide SNP data of 1,763 participants, including 1,526 Bantu speakers from 147 populations across 14 African countries.
-Encrypted raw autosomal data in *.tped and *.tfam format.
+Encrypted raw autosomal data are available in *.tped and *.tfam format.
 #
 ###### - EGA AfricanNeo_A Dataset ID: EGAD0000
 #
