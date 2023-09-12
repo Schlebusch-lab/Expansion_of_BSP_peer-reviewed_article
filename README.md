@@ -1,5 +1,5 @@
 # Expansion_of_BSP_peer-reviewed_article
-This repository contains files from the publication entitled "The genetic legacy of the expansion of Bantu-speaking peoples in Africa".
+This repository contains files from the AfricanNeo Project (ERC grant agreement ID: 759933) led by members of Schlebusch Lab.
 
 ###
 ### - Citation
@@ -7,7 +7,7 @@ This repository contains files from the publication entitled "The genetic legacy
 ***The genetic legacy of the expansion of Bantu-speaking peoples in Africa***
 . Cesar A. Fortes-Lima, Concetta Burgarella, Rickard Hammarén, Anders Eriksson, Mário Vicente, Cecile Jolly, Armando Semo, Hilde Gunnink, Sara Pacchiarotti, Leon Mundeke, Igor Matonda, Joseph Koni Muluwa, Peter Coutros, Terry S. Nyambe, Cirhuza Cikomola, Vinet Coetzee, Minique de Castro, Peter Ebbesen, Joris Delanghe, Mark Stoneking, Larry Barham, Marlize Lombard, Anja Meyer, Maryna Steyn, Helena Malmström, Jorge Rocha, Himla Soodyall, Brigitte Pakendorf, Koen Bostoen & Carina M. Schlebusch. *TBD*, 2023. doi: 10.1101/2023.04.03.535432
 
-Preprint available in *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/2023.04.03.535432.abstract
+Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/2023.04.03.535432.abstract
 
 # Extended Data
 
@@ -28,7 +28,6 @@ Preprint available in *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/202
 
 ##### [Supplementary Fig. 4d | Labels of all the populations included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04d_Map.html)
 
-https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/main/02-DRM/Suppl_Fig_06a_UMAP.html
 
 ## 2- Dimensionality reduction methods (DRM)
 
