@@ -1,6 +1,5 @@
 # Expansion_of_BSP_peer-reviewed_article
-This repository contains files from the AfricanNeo Project (ERC grant agreement ID: 759933) led by members of Schlebusch Lab.
-
+This repository contains online material from the AfricanNeo Project.
 ###
 ### - Citation
 #
@@ -9,11 +8,7 @@ This repository contains files from the AfricanNeo Project (ERC grant agreement 
 
 Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/2023.04.03.535432.abstract
 
-# Extended Data
-
 # Supplementary Material
-
-# Supplementary Figures
 
 ## 1- Geographical locations
 ##### [Supplementary Fig. 3a | Labels of all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_03a_Map.html)
@@ -59,16 +54,25 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 
 ##### [Supplementary Fig. 13d | GCAE approach for all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13d_GCAE.html)
 
+## 3- Other methods
+### - Genome-wide runs of homozygosity (ROH)
 
-## 5- Genome-wide runs of homozygosity (ROH)
+##### [Supplementary Fig. 40 | All categories of ROH length for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_40_All_ROH.html)
 
-##### [Supplementary Fig. 40 | All categories of ROH length for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/05-Other_Methods/Suppl_Fig_40_All_ROH.html)
+##### [Supplementary Fig. 41 | All categories of ROH length only for BSP the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_41_BSP_ROH.html)
 
-##### [Supplementary Fig. 41 | All categories of ROH length only for BSP the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/05-Other_Methods/Suppl_Fig_41_BSP_ROH.html)
+
+
+### 4- Ancient DNA
+
+## 5- Supplementary Linguistic Data
+Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json).
 
 #
 ###
 # Additional information
+
+The AfricanNeo Project (ERC grant agreement ID: 759933) was led by Carina Schlebusch.
 
 ### AfricanNeo aDNA Study EGA ID: EGAS00001007519
 Whole-genome sequencing data from 12 Late Iron Age individuals
