@@ -1,0 +1,93 @@
+ID,Name,Description,Bastin ID,Schoenbrun ID,English Bastin,English Schoenbrun,French Bastin
+all,all,,YB 01,DLS 006,all,all,tous
+arm,arm,,YB 02,DLS 059,arm n.,hand/arm,bras
+ashes,ashes,,YB 03,DLS 071,ashes n.,ashes,cendre
+bark,bark,,YB 04,DLS 037,bark n.,bark,écorce
+belly,belly,,YB 05,DLS 060,belly n.,belly,ventre
+big,big,,YB 06,DLS 014,big,big,grand (>< long)
+bird,bird,,YB 07,DLS 030,bird n.,bird,oiseau
+black,black,,YB 09,DLS 024,black,black,noir
+blood,blood,,YB 10,DLS 045,blood n.,blood,sang
+bone,bone,,YB 11,DLS 046,bone n.,bone,os
+breast,breast,,YB 12,DLS 062,breast n.,breast,sein
+cloud,cloud,,YB 14,DLS 068,cloud n.,cloud,nuage
+cold,cold,,YB 15,DLS 077,cold (weather),cold,(temps) froid
+dog,dog,,YB 18,DLS 031,dog n.,dog,chien
+ear,ear,,YB 21,DLS 050,ear n.,ear,oreille
+egg,egg,,YB 23,DLS 040,egg n.,egg,oeuf
+eye,eye,,YB 24,DLS 051,eye n.,eye,oeil
+fat,fat,"oil, animal fat, lard",YB 25,DLS 080,fat n.,fat (n.),graisse (animale)
+feather,feather,,YB 26,DLS 043,feather n.,feather,plume
+fire,fire,,YB 27,DLS 070,fire n.,fire,feu
+fish,fish,,YB 28,DLS 029,fish n.,fish,poisson
+full,full,,YB 30,--,full,--,plein
+good,good,,YB 32,DLS 020,good,good,bon
+ground,ground,,YB 33,DLS 072,ground (on the ~),earth,terre (par ~)
+hair,hair,head hair,YB 34,DLS 044,hair (of head) n.,hair,cheveu
+head,head,,YB 35,DLS 047,head n.,head,tête
+heart,heart,,YB 37,DLS 048,heart n.,heart,coeur
+horn,horn,,YB 38,DLS 041,horn n.,horn,corne
+knee,knee,,YB 40,DLS 058,knee n.,knee,genou
+leaf,leaf,,YB 42,DLS 035,leaf n.,leaf,feuille (d'arbre)
+leg,leg,,YB 43,DLS 057,leg n.,foot/leg,jambe
+liver,liver,,YB 45,DLS 049,liver n.,liver,foie
+long,long,,YB 46,DLS 016,long,long,long (>< grand)
+louse,louse,,YB 47,DLS 032,louse n.,louse,pou
+man,man,,YB 48,DLS 026,man n.,man,homme (être humain masculin)
+many,many,,YB 49,DLS 007,many,many,beaucoup (nombreux)
+meat,meat,,YB 50,DLS 039,meat n.,meat,viande
+moon,moon,,YB 51,DLS 064,moon n.,moon,lune
+mountain,mountain,,YB 52,DLS 076,mountain n.,mountain,montagne
+mouth,mouth,,YB 53,DLS 053,mouth n.,mouth,bouche
+nail,nail,,YB 54,DLS 056,nail n.,nail/claw,ongle
+name,name,,YB 55,DLS 079,name n.,name,nom
+neck,neck,,YB 56,DLS 061,neck n.,neck,cou
+new,new,,YB 57,DLS 019,new,new,nouveau
+night,night,,YB 58,DLS 078,night n.,night,nuit
+nose,nose,,YB 59,DLS 052,nose n.,nose,nez
+one,one,,YB 60,DLS 009,one,one,un (nombre)
+path,"way, road, path",,YB 61,DLS 075,path n.,path/road,chemin
+person,person,,YB 62,DLS 028,person n.,person,personne (être humain)
+rain,rain,,YB 63,DLS 067,rain n.,rain,pluie
+red,red,,YB 64,DLS 025,red,red,rouge
+root,root,,YB 65,DLS 036,root n.,root,racine
+round,round,,YB 66,--,round (as ball),--,rond (comme une boule)
+sand,sand,,YB 67,DLS 073,sand n.,sand,sable
+seed,seed,,YB 70,DLS 034,seed n.,seed,semence (graine mise en terre)
+skin,skin,,YB 72,DLS 038,(human) skin n.,skin,peau (humaine)
+sleep_n,sleep (n),,YB 73,DLS 090,sleep n.,sleep**,sommeil
+small,small,,YB 74,DLS 015,small,small,petit
+smoke,smoke,,YB 75,DLS 069,smoke n.,smoke,fumée
+star,star,,YB 77,DLS 065,star n.,star,étoile
+stone,stone,,YB 78,DLS 074,stone n.,stone,pierre
+sun,sun,,YB 79,DLS 063,sun n.,sun,soleil
+tail,tail,,YB 81,DLS 042,tail n.,tail,queue
+to_be_dry,(to be) dry,,YB 20,--,dry,--,sec
+to_bite,to bite,,YB 08,DLS 084,bite v.,bite,mordre
+to_burn,to burn,,YB 13,DLS 085,burn intr. v.,burn (intr.),brûler (être en feu)
+to_come,to come,,YB 16,DLS 095,come v.,come,venir
+to_die,to die,,YB 17,DLS 091,die v.,die,mourir
+to_drink,to drink,,YB 19,DLS 082,drink v.,drink,boire
+to_eat,to eat,,YB 22,DLS 083,eat v.,eat,manger
+to_fly,to fly,,YB 29,DLS 093,fly v.,fly,voler (oiseau)
+to_give,to give,,YB 31,DLS 099,give v.,give,donner
+to_hear,to hear,,YB 36,DLS 088,hear v,hear,entendre
+to_kill,to kill,,YB 39,DLS 092,kill v.,kill,tuer
+to_know,to know,,YB 41,DLS 089,know v.,know,savoir
+to_lie_down,to lie down,,YB 44,--,lie (down) v,--,être couché
+to_say,to say,,YB 68,DLS 098,say v.,say,dire
+to_see,to see,,YB 69,DLS 087,see v.,see,voir
+to_sit,to sit,,YB 71,DLS 097,sit v.,sit,être assis
+to_stand,to stand,,YB 76,DLS 096,stand v.,stand,être debout
+to_swim,to swim,,YB 80,DLS 100,swim v.,swim,nager
+to_walk,to walk,,YB 86,DLS 094,walk v.,go,marcher
+tongue,tongue,,YB 82,DLS 055,tongue n.,tongue,langue (corps)
+tooth,tooth,,YB 83,DLS 054,tooth n.,tooth,dent
+tree,tree,,YB 84,DLS 033,tree n.,tree,arbre
+two,two,,YB 85,DLS 010,two,two,deux
+warm_weather,warm (weather),,YB 87,--,warm (weather),--,(temps) chaud
+water,water,,YB 88,DLS 066,water n.,water,eau
+what,what,,YB 89,--,what?,--,quoi?
+white,white,,YB 90,DLS 023,white,white,blanc
+who,who,,YB 91,DLS 004,who?,who?,qui?
+woman,woman,,YB 92,DLS 027,woman n.,woman,femme (être humain féminin)

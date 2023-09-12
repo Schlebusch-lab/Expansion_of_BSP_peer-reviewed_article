@@ -1,0 +1,63 @@
+ID,Name,Guthrie Code,Glottocode,ISO639P3code
+a84_njem,A84_Njem,,,
+a86c_mpiemo,A86c_Mpiemo,,,
+nzebi_congo,B52X_Nzebi (Congo),B52X,,
+nzebi_gabon,B52Y_Nzebi (Gabon),B52Y,,
+east_yans_nkara,B85bT_East Yans (Nkara),B85bT,,
+east_yans_kiwanda,B85bU_East Yans (Kiwanda),B85bU,,
+east_yans_mantshiene,B85bV_East Yans (Mantshiene),B85bV,,
+east_yans_longo_kuma_kuma,B85bW_East Yans (Longo Kuma-Kuma),B85bW,,
+east_yans_bagata,B85bX_East Yans (Bagata),B85bX,,
+east_yans_kimbanda,B85bZ_East Yans (Kimbanda),B85bZ,,
+east_ngwi_mangai,B861X_East Ngwi (Mangai),B861X,,
+east_lwel_sedzo,B862X_East Lwel (Sedzo),B862X,,
+east_ding_mbentsie_bambudi,"B86U_East Ding (""Mbentsie"", Bambudi)",B86U,,
+west_ding_kamtsha_mpume,"B86V_West Ding (""Kamtsha"", Mpume)",B86V,,
+west_ding_kamtsha_sedzo,"B86W_West Ding (""Kamtsha"", Sedzo)",B86W,,
+west_ding_kamtsha_itere,"B86X_West Ding (""Kamtsha"", Itere)",B86X,,
+west_ding_kamtsha_kwilumpia,"B86Y_West Ding (""Kamtsha"", Kwilumpia)",B86Y,,
+west_ding_kamtsha_oveke_fiote,"B86Z_West Ding (""Kamtsha"", Oveke-Fiote)",B86Z,,
+mbuun_gungu,B87U_Mbuun (Gungu),B87U,,
+mbuun_milundu,B87V_Mbuun (Milundu),B87V,,
+west_mbuun_imbongo,B87W_West Mbuun (Imbongo),B87W,,
+mbuun_mayungu,B87X_Mbuun (Mayungu),B87X,,
+mbuun_mwilambongo,B87Y_Mbuun (Mwilambongo),B87Y,,
+mbuun_mabangi,B87Z_Mbuun (Mabangi),B87Z,,
+d25_lega,D25_Lega,D25,,lgm
+g42_swahili,G42_Swahili,G42,,swh
+g42a_amu,G42a_Amu,,,
+g42d_unguja,G42d_Unguja,,,
+h16b_kimanyanga_1973,H16b_Kimanyanga_1973,,,
+h41_mbala,H41_Mbala,,,
+jd53_shi,JD53_Shi,,,
+je15_luganda,JE15_Ganda,JE15,,lug
+je32_luyia,JE32_Luyia,,,
+k11_ciokwe,K11_Ciokwe,,,
+k15_mbunda,K15_Mbunda,,,
+k21_lozi,K21_Lozi,K21,,loz
+k402_fwe,K402_Fwe,K402,,fwe
+l11_pende,L11_Pende,,,
+l31a_luba_kasai,L31a_Luba-Kasai,,,
+l62_nkoya,L62_Nkoya,,,
+m42_bemba,M42_Bemba,M42,,bem
+m64_zambian_tonga,M64_Tonga (Zambia),M64,,toi
+n31a_nyanja_1964,N31a_Nyanja_1964,,,
+n44_sena_1986,N44_Sena_1986,,,
+p21_yao,P21_Yao,P21,,yao
+p31a_central_makhuwa,P31A_Central Makhuwa,P31A,,vmw
+r13_humbe,R13_Humbe,R13,,nyk
+r21_kwanyama,R21_Kwanyama,R21,,kua
+r31_herero,R31_Herero,R31,,her
+s13_manyika,S13_Manyika,S13,,mxc
+s15_ndau,S15_Ndau,S15,,ndc
+s16_ikalanga,S16_Kalanga,S16,,kck
+s21_venda,S21_Venda,S21,,ven
+s311_kgalagadi,S311_Kgalagadi,S311,kgal1244,xkv
+s32_northern_sotho,S32_Northern Sotho,S32,,nso
+s41_xhosa,S41_Xhosa,S41,,xho
+s42_zulu,S42_Zulu,S42,,zul
+s43_swati,S43_Swati,S43,,ssw
+s51_tshwa,S51_Tswa,S51,,tsc
+s53_tsonga,S53_Tsonga,S53,,tso
+s61_copi,S61_Copi,S61,,cce
+s62_mozambican_tonga,S62_Mozambican Tonga,S62,,toh
