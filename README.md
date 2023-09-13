@@ -9,6 +9,8 @@ This repository contains online material from the AfricanNeo Project.
 
 Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04/05/2023.04.03.535432.abstract
 
+BSP = “Bantu-speaking populations” 
+
 # Supplementary Material
 
 ## 2- Dimensionality reduction methods (DRM)
@@ -17,17 +19,17 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 
 ##### [Supplementary Fig. 6b | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06b_UMAP.html)
 
-##### [Supplementary Fig. 7 | PCA plots for only Bantu-speaking groups](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_07_PCA_Only-BSP_Groups.html)
+##### [Supplementary Fig. 7 | PCA plots for all the Bantu-speaking groups included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_07_PCA_Only-BSP_Groups.html)
 
-##### [Supplementary Fig. 7 | PCA plots for only Bantu-speaking populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_07_PCA_Only-BSP_Populations.html)
+##### [Supplementary Fig. 7 | PCA plots for all the Bantu-speaking populations included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_07_PCA_Only-BSP_Populations.html)
 
-##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African groups](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_08_PCA_SSA_Groups.html)
+##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African groups included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_08_PCA_SSA_Groups.html)
 
-##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_08_PCA_SSA_Populations.html)
+##### [Supplementary Fig. 8 | PCA plots for selected sub-Saharan African populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_08_PCA_SSA_Populations.html)
 
 ##### [Supplementary Fig. 11 | PCA plots for all the groups included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_11_PCA_AfricanNeo_Groups.html)
 
-##### [Supplementary Fig. 11 | PCA plots for all the populations included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_11_PCA_AfricanNeo_Populations.html)
+##### [Supplementary Fig. 11 | PCA plots for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_11_PCA_AfricanNeo_Populations.html)
 
 ##### [Supplementary Fig. 12a | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_12a_PCA-UMAP.html)
 
