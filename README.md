@@ -49,7 +49,11 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 
 ##### [Supplementary Fig. 41 | All categories of ROH length only for BSP included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_41_BSP_ROH.html)
 
-### - IBDNe
+### - Effective population sizes estimated using IBDNe
+
+##### [Supplementary Fig. 49a | Estimated effective population sizes (Ne) for selected BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_49a_IBDNe.html)
+
+##### [Supplementary Fig. 49b | Shaded areas of Suppl. Fig. 49a between the lower and the upper 95% confidence interval](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_49b_IBDNe.html)
 
 ### - FST map for the masked Only-BSP dataset. 
 
