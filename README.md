@@ -42,6 +42,7 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 ##### [Supplementary Fig. 13d | GCAE approach for all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13d_GCAE.html)
 
 ## 3- Other methods
+
 ### - Genome-wide runs of homozygosity (ROH)
 
 ##### [Supplementary Fig. 40 | All categories of ROH length for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_40_All_ROH.html)
@@ -49,6 +50,13 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 ##### [Supplementary Fig. 41 | All categories of ROH length only for BSP the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_41_BSP_ROH.html)
 
 ### - IBDNe
+
+### - FST map for the masked Only-BSP dataset. 
+
+##### [Supplementary Fig. 83a | Fst map for all the BSP included in the AfricanNeo datase](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83a_Fst_Map.html)
+
+##### [Supplementary Fig. 83b | Fst map for the BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
+#
 
 ## 4- Ancient DNA
 ### -
