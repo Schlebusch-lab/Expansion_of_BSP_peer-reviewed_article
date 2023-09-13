@@ -55,7 +55,7 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 
 ##### [Supplementary Fig. 83a | Fst map for all the BSP included in the AfricanNeo datase](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83a_Fst_Map.html)
 
-##### [Supplementary Fig. 83b | Fst map for the BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
+##### [Supplementary Fig. 83b | Fst map for BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
 #
 
 ## 4- Ancient DNA
