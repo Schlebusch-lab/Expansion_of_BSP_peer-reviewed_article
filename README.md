@@ -13,6 +13,23 @@ BSP = “Bantu-speaking populations”
 
 # Supplementary Material
 
+## 1- Geographical locations
+
+##### [Supplementary Fig. 2a | Labels of all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_02a_Map.html)
+
+##### [Supplementary Fig. 3a | Labels of all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_03a_Map.html)
+
+##### [Supplementary Fig. 3b | Labels of all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_03b_Map.html)
+
+##### [Supplementary Fig. 4a | Labels of all the groups included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04a_Map.html)
+
+##### [Supplementary Fig. 4b | Labels of all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04b_Map.html)
+
+##### [Supplementary Fig. 4c | Labels of all the groups included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04c_Map.html)
+
+##### [Supplementary Fig. 4d | Labels of all the populations included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04d_Map.html)
+
+
 ## 2- Dimensionality reduction methods (DRM)
 
 ##### [Supplementary Fig. 6a | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06a_UMAP.html)
