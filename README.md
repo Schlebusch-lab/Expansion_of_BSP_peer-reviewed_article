@@ -14,7 +14,7 @@ BSP = “Bantu-speaking populations”
 
 # Main Figures
 
-##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig/Fig_1.html)
+##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_1.html)
 ###### To visualise each figure from this panel you need to click on the taps at the top-corner left.
 
 # Extended Data Figures and Tables
