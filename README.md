@@ -11,6 +11,35 @@ Preprint available online at *bioRxiv*: http://biorxiv.org/content/early/2023/04
 
 BSP = “Bantu-speaking populations” 
 
+
+# Main Figures
+
+##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig/Fig_1.html)
+###### To visualise each figure from this panel you need to click on the taps at the top-corner left.
+
+# Extended Data Figures and Tables
+
+##### [ED Fig. 1 | Geographical locations of modern and ancient populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_1.pdf)
+
+##### [ED Fig. 2 | Dimensionality reduction methods applied in this study](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_2.pdf)
+
+##### [ED Fig. 3 | Contour maps of each ADMIXTURE result at K=12](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_3.pdf)
+
+##### [ED Fig. 4 | Comparisons between EEMS and ADMIXTURE results](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_4.pdf)
+
+##### [ED Fig. 5 | Ancestry-specific PCA after removing Himba and Herero populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_5.pdf)
+
+##### [ED Fig. 6 | Haplotype heterozygosity (HH) and linkage disequilibrium (LD) distribution in BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_6.pdf)
+
+##### [ED Fig. 7 | TreeMix for the masked Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_7.pdf)
+
+##### [ED Fig. 8 | ADMIXTURE proportions of ancient and modern populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_8.pdf)
+
+##### [ED  Table 1 | Genetic affinity of BSP to non-BSP estimated using f3-statistics](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_1.pdf)
+
+##### [ED Table 2 | Genetic affinity of ancient individuals to modern BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_2.pdf)
+
+
 # Supplementary Material
 
 ## 1- Geographical locations
