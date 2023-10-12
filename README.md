@@ -24,7 +24,7 @@ BSP = “Bantu-speaking populations”
 
 ##### [ED Fig. 2 | Dimensionality reduction methods applied in this study](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_2.pdf)
 
-##### [ED Fig. 3 | Contour maps of each ADMIXTURE result at K=12](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_3.tif)
+##### [ED Fig. 3 | Contour maps of each ADMIXTURE result at K=12](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_3.pdf)
 
 ##### [ED Fig. 4 | Comparisons between EEMS and ADMIXTURE results](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_4.pdf)
 
