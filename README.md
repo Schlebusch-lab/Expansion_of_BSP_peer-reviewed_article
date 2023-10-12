@@ -14,9 +14,16 @@ BSP = “Bantu-speaking populations”
 
 # Main Figures
 
-##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_1.html)
 ###### To visualise each figure from this panel you need to click on the taps at the top-corner left.
+##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_1.html)
 
+##### [Figure 2 | Population structure, admixture dates and fractions
+
+##### [Figure 3 | Population structure patterns in BSP after admixture masking 
+
+##### [Figure 4 | Patterns of genetic diversity in BSP 
+
+##### [Figure 5 | Migration routes and rates in BSP
 
 # Extended Data Figures and Tables
 
