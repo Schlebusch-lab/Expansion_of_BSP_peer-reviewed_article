@@ -27,7 +27,7 @@ BSP = “Bantu-speaking populations”
 
 # Extended Data Figures and Tables
 
-##### [ED Fig. 1 | Geographical locations of modern and ancient populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_1.pdf)
+##### [ED Fig. 1 | Geographical locations of modern and ancient populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_1.html)
 
 ##### [ED Fig. 2 | Dimensionality reduction methods applied in this study](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_2.pdf)
 
