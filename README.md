@@ -19,7 +19,7 @@ BSP = “Bantu-speaking populations”
 
 ##### [Figure 2 | Population structure, admixture dates and fractions
 
-##### [Figure 3 | Population structure patterns in BSP after admixture masking 
+##### [Figure 3 | Population structure patterns in BSP on the admixture-masked dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_3.html)
 
 ##### [Figure 4 | Patterns of genetic diversity in BSP 
 
