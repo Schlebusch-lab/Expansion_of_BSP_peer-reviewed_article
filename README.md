@@ -129,40 +129,37 @@ Cognates are lexical roots originating in one and the same ancestral lexeme whic
 
 The AfricanNeo Project (ERC grant agreement ID: 759933) was led by Carina Schlebusch.
 
-### AfricanNeo aDNA Study EGA ID: EGAS00001007519
-Whole-genome sequencing data from 12 Late Iron Age individuals
-###### - EGA AfricanNeo_aDNA Dataset ID: EGAD00001011320
-Encrypted raw data are available in *.bam format.
+### AfricanNeo aDNA Study EGA ID: 
+Whole-genome sequencing data from 12 Late Iron Age individuals (6 from Zambia and 6 from South Africa).
+#
+###### - EGA AfricanNeo_aDNA Dataset ID: EGAD00001011320 see https://ega-archive.org/datasets/EGAD00001011320
+Encrypted raw data are available for direct download in *.bam format.
 
-### AfricanNeo ModernDNA Study EGA ID: EGAS00001007515
+### AfricanNeo ModernDNA Study EGA ID: EGAS50000000006 see https://ega-archive.org/studies/EGAS50000000006
 Genome-wide SNP data of 1,763 participants, including 1,526 Bantu speakers from 147 populations across 14 African countries.
 Encrypted raw autosomal data are available in *.tped and *.tfam format.
 #
-###### - EGA AfricanNeo_A Dataset ID: EGAD0000
+###### AfricanNeo_A dataset, or Soodyall's Collection, 1027 samples: EGAD50000000008 see https://ega-archive.org/datasets/EGAD50000000008 
+# 
+###### AfricanNeo_B dataset, or Pakendorf's Collection, 156 samples: EGAD50000000006 see https://ega-archive.org/datasets/EGAD50000000006 
+# 
+###### AfricanNeo_C dataset, or Bostoen's Collection, 300 samples: EGAD50000000009 see https://ega-archive.org/datasets/EGAD50000000009 
+# 
+###### AfricanNeo_D dataset, or Delanghe's Collection, 151 samples: EGAD50000000010 see https://ega-archive.org/datasets/EGAD50000000010 
+# 
+###### AfricanNeo_E dataset, or Coetzee's Collection, 100 samples: EGAD50000000011 see https://ega-archive.org/datasets/EGAD50000000011 
+# 
+###### AfricanNeo_F dataset, or Ebbesen's Collection, 29 samples: EGAD50000000007 see https://ega-archive.org/datasets/EGAD50000000007 
 #
-###### - EGA AfricanNeo_B Dataset ID: EGAD0000
 #
-###### - EGA AfricanNeo_C Dataset ID: EGAD0000
+### AfricanNeo Data Access Committee ID: EGAC00001003398 see https://ega-archive.org/dacs/EGAC00001003398 
 #
-###### - EGA AfricanNeo_D Dataset ID: EGAD0000
-#
-###### - EGA AfricanNeo_E Dataset ID: EGAD0000
-#
-###### - EGA AfricanNeo_F Dataset ID: EGAD0000
-#
+### Data Access Policy EGA ID: EGAP00001003469 see https://i-am-an-african.net/documents
 
-### Data Access Committee EGA ID: EGAC00001003398
-Short name: AfricanNeo Data Access Committee
-
-### Data Access Policy EGA ID: EGAP00001003469
-Policy URL: https://i-am-an-african.net/documents
 
 ### Contact person of the AfricanNeo Data Access Committee (DAC):
-#### Carina Schlebusch. Email: carina.schlebusch@ebc.uu.se
-Associate Professor / Senior Lecturer. Human Evolution Program
-Department of Organismal Biology, Evolutionary Biology Centre, Uppsala University
-
+#### Prof. Carina Schlebusch. Email: carina.schlebusch@ebc.uu.se
+Human Evolution Program, Department of Organismal Biology, 
+Evolutionary Biology Centre, Uppsala University
 Norbyvägen 18C, SE-752 36 Uppsala, Sweden
-
-
 ##
