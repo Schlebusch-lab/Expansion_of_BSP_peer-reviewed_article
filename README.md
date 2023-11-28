@@ -87,6 +87,7 @@ Supplementary Fig. 4
 
 ##### [Supplementary Fig. 12b | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_12b_PCA-UMAP.html)
 
+Supplementary Fig. 13
 ##### [Supplementary Fig. 13a | GCAE approach for all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13a_GCAE.html)
 
 ##### [Supplementary Fig. 13b | GCAE approach for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13b_GCAE.html)
@@ -125,14 +126,16 @@ Supplementary Fig. 4
 
 ##### [Supplementary Fig. 96 | PCA of aDNA and modern African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Population_Colour.html)
 
+Supplementary Fig. 97
 ##### [Supplementary Fig. 97a | PCA-UMAP of aDNA individuals and present-day African populations. Ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97a_PCA_aDNA.html)
 
 ##### [Supplementary Fig. 97b | PCA-UMAP of aDNA individuals and present-day African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97b_PCA_aDNA.html)
 
 ##### [Supplementary Fig. 97c | PCA-UMAP of aDNA individuals and present-day African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
+#
 
 ### 5- Supplementary Linguistic Data
-Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
+Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF) here: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data).
 
 ###
 ### Additional information
