@@ -120,19 +120,18 @@ RHG means “African rainforest hunter-gatherers”
 ## 4- Ancient DNA
 #
 ##### [Supplementary Fig. 95 | Geographical locations of aDNA individuals included in this study.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_95_aDNA_Map.html)
-#
+
 ##### [Supplementary Fig. 96_right column | PCA of aDNA and modern African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Colour.html)
-#
+
 ##### [Supplementary Fig. 96_left column | PCA of aDNA and modern African populations. Only ancient DNA individuals were highlighted with colors](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Gray.html)
-#
+
 ##### [Supplementary Fig. 96 | PCA of aDNA and modern African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Population_Colour.html)
-#
+
 ##### [Supplementary Fig. 97a | PCA-UMAP of aDNA individuals and present-day African populations. Ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97a_PCA_aDNA.html)
-#
+
 ##### [Supplementary Fig. 97b | PCA-UMAP of aDNA individuals and present-day African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97b_PCA_aDNA.html)
-#
+
 ##### [Supplementary Fig. 97c | PCA-UMAP of aDNA individuals and present-day African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
-#
 #
 #
 ## 5- Supplementary Linguistic Data
