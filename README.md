@@ -175,3 +175,7 @@ Human Evolution Program, Department of Organismal Biology,
 Evolutionary Biology Centre, Uppsala University
 Norbyvägen 18C, SE-752 36 Uppsala, Sweden
 ##
+### Contact person of this repository:
+#### Cesar Fortes-Lima, PhD. Uppsala University, Sweden. Email: cesar.fortes-lima@ebc.uu.se
+More scripts and figures are available upon request.
+
