@@ -21,7 +21,7 @@ RHG means “African rainforest hunter-gatherers”
 ##### [Figure 4 | Patterns of genetic diversity in BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_4.pdf)
 
 ##### [Figure 5 | Migration routes and rates in BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_5.pdf)
-#
+
 ## Extended Data Figures and Tables
 
 ##### [ED Fig. 1 | Geographical locations of modern and ancient populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_1.html)
@@ -44,11 +44,11 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [ED Table 2 | Genetic affinity of ancient individuals to modern BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_2.pdf)
 
-#
+
 ## Supplementary Material
 
 ### 1- Geographical locations
-
+#
 ##### [Supplementary Fig. 2a | New and previously reported modern-day populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_02a_Map.html)
 
 ##### [Supplementary Fig. 3a | Labels of all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_03a_Map.html)
@@ -66,7 +66,7 @@ RHG means “African rainforest hunter-gatherers”
 
 
 ### 2- Dimensionality reduction methods (DRM)
-
+#
 ##### [Supplementary Fig. 6a | UMAP approach on the basis of genotype data of the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06a_UMAP.html)
 
 ##### [Supplementary Fig. 6b | UMAP approach on the basis of genotype data of the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06b_UMAP.html)
@@ -96,7 +96,7 @@ RHG means “African rainforest hunter-gatherers”
 ##### [Supplementary Fig. 13d | GCAE approach for all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13d_GCAE.html)
 
 ### 3- Other methods
-
+#
 #### - Genome-wide runs of homozygosity (ROH)
 
 ##### [Supplementary Fig. 40 | All categories of ROH length for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_40_All_ROH.html)
@@ -115,8 +115,8 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [Supplementary Fig. 83b | F<sub>ST</sub> map for BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
 
-### 4- Ancient DNA
-
+### 4- Plots of Ancient DNA analyses
+#
 ##### [Supplementary Fig. 95 | Geographical locations of aDNA individuals included in this study.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_95_aDNA_Map.html)
 
 ##### [Supplementary Fig. 96_right column | PCA of aDNA and modern African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Colour.html)
