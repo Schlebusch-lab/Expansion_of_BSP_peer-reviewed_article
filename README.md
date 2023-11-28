@@ -115,7 +115,6 @@ RHG means “African rainforest hunter-gatherers”
 ##### [Supplementary Fig. 83a | F<sub>ST</sub> map for all the BSP included in the AfricanNeo datase](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83a_Fst_Map.html)
 
 ##### [Supplementary Fig. 83b | F<sub>ST</sub> map for BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
-#
 
 ## 4- Ancient DNA
 
@@ -133,11 +132,9 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [Supplementary Fig. 97c | PCA-UMAP of aDNA individuals and present-day African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
 
-#
 ## 5- Supplementary Linguistic Data
 Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
 
-#
 ###
 # Additional information
 This study was funded by the European Research Council (ERC) under the grant AfricanNeo (“The African Neolithic: A genetic perspective”; grant agreement ID: 759933), granted to Prof. Carina Schlebusch.
@@ -166,10 +163,10 @@ Encrypted raw autosomal data are available in *.tped and *.tfam format.
 
 #
 ### AfricanNeo Data Access Committee ID: EGAC00001003398 see https://ega-archive.org/dacs/EGAC00001003398 
-#
+
 ### Data Access Policy EGA ID: EGAP00001003469 see https://i-am-an-african.net/documents
 
-
+#
 ### Contact person of the AfricanNeo Data Access Committee (DAC):
 #### Prof. Carina Schlebusch. Email: carina.schlebusch@ebc.uu.se
 Human Evolution Program, Department of Organismal Biology, 
