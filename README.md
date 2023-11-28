@@ -112,23 +112,37 @@ RHG means “African rainforest hunter-gatherers”
 
 ### - F<sub>ST</sub> map for the masked Only-BSP dataset. 
 
-##### [Supplementary Fig. 83a | Fst map for all the BSP included in the AfricanNeo datase](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83a_Fst_Map.html)
+##### [Supplementary Fig. 83a | F<sub>ST</sub> map for all the BSP included in the AfricanNeo datase](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83a_Fst_Map.html)
 
-##### [Supplementary Fig. 83b | Fst map for BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
+##### [Supplementary Fig. 83b | F<sub>ST</sub> map for BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
 #
 
 ## 4- Ancient DNA
-### -
-
+#
+##### [Supplementary Fig. 95 | Geographical locations of aDNA individuals included in this study.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_95_aDNA_Map.html)
+#
+##### [Supplementary Fig. 96_right column | PCA of aDNA and modern African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Colour.html)
+#
+##### [Supplementary Fig. 96_left column | PCA of aDNA and modern African populations. Only ancient DNA individuals were highlighted with colors](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Gray.html)
+#
+##### [Supplementary Fig. 96 | PCA of aDNA and modern African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Population_Colour.html)
+#
+##### [Supplementary Fig. 97a | PCA-UMAP of aDNA individuals and present-day African populations. Ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97a_PCA_aDNA.html)
+#
+##### [Supplementary Fig. 97b | PCA-UMAP of aDNA individuals and present-day African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97b_PCA_aDNA.html)
+#
+##### [Supplementary Fig. 97c | PCA-UMAP of aDNA individuals and present-day African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
+#
+#
+#
 ## 5- Supplementary Linguistic Data
 Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
-
+#
 #
 ###
 # Additional information
-
-The AfricanNeo Project (ERC grant agreement ID: 759933) was led by Carina Schlebusch.
-
+This study was funded by the European Research Council (ERC) under the grant AfricanNeo (“The African Neolithic: A genetic perspective”; grant agreement ID: 759933), granted to Prof. Carina Schlebusch.
+#
 ### AfricanNeo aDNA Study EGA ID: 
 Whole-genome sequencing data from 12 Late Iron Age individuals (6 from Zambia and 6 from South Africa).
 #
