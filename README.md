@@ -1,5 +1,4 @@
-# Expansion_of_BSP_peer-reviewed_article
-This repository contains online material from the AfricanNeo Project.
+# This repository contains online material from the AfricanNeo Project (Fortes-Lima et al. ***Nature*** 2023).
 
 ###
 ### - Citation
@@ -42,7 +41,7 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [ED Fig. 8 | ADMIXTURE proportions of ancient and modern populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_8.pdf)
 
-##### [ED  Table 1 | Genetic affinity of BSP to non-BSP estimated using f3-statistics](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_1.pdf)
+##### [ED Table 1 | Genetic affinity of BSP to non-BSP estimated using f3-statistics](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_1.pdf)
 
 ##### [ED Table 2 | Genetic affinity of ancient individuals to modern BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_2.pdf)
 
@@ -69,9 +68,9 @@ RHG means “African rainforest hunter-gatherers”
 
 ### 2- Dimensionality reduction methods (DRM)
 
-##### [Supplementary Fig. 6a | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06a_UMAP.html)
+##### [Supplementary Fig. 6a | UMAP approach on the basis of genotype data of the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06a_UMAP.html)
 
-##### [Supplementary Fig. 6b | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06b_UMAP.html)
+##### [Supplementary Fig. 6b | UMAP approach on the basis of genotype data of the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06b_UMAP.html)
 
 ##### [Supplementary Fig. 7 | PCA plots for all the Bantu-speaking groups included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_07_PCA_Only-BSP_Groups.html)
 
