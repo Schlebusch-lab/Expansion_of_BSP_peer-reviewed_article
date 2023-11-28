@@ -3,16 +3,18 @@
 ###
 #### - Citation
 ***The genetic legacy of the expansion of Bantu-speaking peoples in Africa***
-. Cesar A. Fortes-Lima, Concetta Burgarella, Rickard Hammarén, Anders Eriksson, Mário Vicente, Cecile Jolly, Armando Semo, Hilde Gunnink, Sara Pacchiarotti, Leon Mundeke, Igor Matonda, Joseph Koni Muluwa, Peter Coutros, Terry S. Nyambe, Cirhuza Cikomola, Vinet Coetzee, Minique de Castro, Peter Ebbesen, Joris Delanghe, Mark Stoneking, Larry Barham, Marlize Lombard, Anja Meyer, Maryna Steyn, Helena Malmström, Jorge Rocha, Himla Soodyall, Brigitte Pakendorf, Koen Bostoen & Carina M. Schlebusch. 2023. doi: [10.1038/s41586-023-06770-6](
+. Cesar A. Fortes-Lima, Concetta Burgarella, Rickard Hammarén, Anders Eriksson, Mário Vicente, Cecile Jolly, Armando Semo, Hilde Gunnink, Sara Pacchiarotti, Leon Mundeke, Igor Matonda, Joseph Koni Muluwa, Peter Coutros, Terry S. Nyambe, Cirhuza Justin Cikomola, Vinet Coetzee, Minique de Castro, Peter Ebbesen, Joris Delanghe, Mark Stoneking, Larry Barham, Marlize Lombard, Anja Meyer, Maryna Steyn, Helena Malmström, Jorge Rocha, Himla Soodyall, Brigitte Pakendorf, Koen Bostoen, and Carina M. Schlebusch. 2023. doi: [10.1038/s41586-023-06770-6](
 https://www.nature.com/articles/s41586-023-06770-6).
 
 Acronyms: 
 BSP means “Bantu-speaking populations” ; and 
 RHG means “African rainforest hunter-gatherers”
 
-## Main Figures
-
 ###### To visualise each figure from some panel you need to click on the taps at the top-corner left.
+###### On the right side of the interactive plots there are different tools to zoom-in and zoom-out in the plot with the mouse, or to save the plots in high resolution (*.svg or *.png format). ![alt text](https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/main/03-Other_Methods/tools.png?raw=true)
+
+
+## Main Figures
 ##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_1.html)
 
 ##### [Figure 2 | Population structure, admixture dates and fractions](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_2.pdf)
