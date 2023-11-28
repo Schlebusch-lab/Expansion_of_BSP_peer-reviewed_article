@@ -110,7 +110,7 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [Supplementary Fig. 49b | Shaded areas of Suppl. Fig. 49a between the lower and the upper 95% confidence interval](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_49b_IBDNe.html)
 
-### - FST map for the masked Only-BSP dataset. 
+### - F<sup>ST map for the masked Only-BSP dataset. 
 
 ##### [Supplementary Fig. 83a | Fst map for all the BSP included in the AfricanNeo datase](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83a_Fst_Map.html)
 
