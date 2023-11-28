@@ -118,7 +118,7 @@ RHG means “African rainforest hunter-gatherers”
 #
 
 ## 4- Ancient DNA
-#
+
 ##### [Supplementary Fig. 95 | Geographical locations of aDNA individuals included in this study.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_95_aDNA_Map.html)
 
 ##### [Supplementary Fig. 96_right column | PCA of aDNA and modern African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Colour.html)
@@ -132,11 +132,11 @@ RHG means “African rainforest hunter-gatherers”
 ##### [Supplementary Fig. 97b | PCA-UMAP of aDNA individuals and present-day African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97b_PCA_aDNA.html)
 
 ##### [Supplementary Fig. 97c | PCA-UMAP of aDNA individuals and present-day African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
-#
+
 #
 ## 5- Supplementary Linguistic Data
 Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
-#
+
 #
 ###
 # Additional information
@@ -145,25 +145,25 @@ This study was funded by the European Research Council (ERC) under the grant Afr
 ### AfricanNeo aDNA Study EGA ID: 
 Whole-genome sequencing data from 12 Late Iron Age individuals (6 from Zambia and 6 from South Africa).
 #
-###### - EGA AfricanNeo_aDNA Dataset ID: EGAD00001011320 see https://ega-archive.org/datasets/EGAD00001011320
+##### - EGA AfricanNeo_aDNA Dataset ID: EGAD00001011320 see https://ega-archive.org/datasets/EGAD00001011320
 Encrypted raw data are available for direct download in *.bam format.
 
 ### AfricanNeo ModernDNA Study EGA ID: EGAS50000000006 see https://ega-archive.org/studies/EGAS50000000006
 Genome-wide SNP data of 1,763 participants, including 1,526 Bantu speakers from 147 populations across 14 African countries.
 Encrypted raw autosomal data are available in *.tped and *.tfam format.
 #
-###### AfricanNeo_A dataset, or Soodyall's Collection, 1027 samples: EGAD50000000008 see https://ega-archive.org/datasets/EGAD50000000008 
-# 
-###### AfricanNeo_B dataset, or Pakendorf's Collection, 156 samples: EGAD50000000006 see https://ega-archive.org/datasets/EGAD50000000006 
-# 
-###### AfricanNeo_C dataset, or Bostoen's Collection, 300 samples: EGAD50000000009 see https://ega-archive.org/datasets/EGAD50000000009 
-# 
-###### AfricanNeo_D dataset, or Delanghe's Collection, 151 samples: EGAD50000000010 see https://ega-archive.org/datasets/EGAD50000000010 
-# 
-###### AfricanNeo_E dataset, or Coetzee's Collection, 100 samples: EGAD50000000011 see https://ega-archive.org/datasets/EGAD50000000011 
-# 
-###### AfricanNeo_F dataset, or Ebbesen's Collection, 29 samples: EGAD50000000007 see https://ega-archive.org/datasets/EGAD50000000007 
-#
+##### AfricanNeo_A dataset, or Soodyall's Collection, 1027 samples: EGAD50000000008 see https://ega-archive.org/datasets/EGAD50000000008 
+
+##### AfricanNeo_B dataset, or Pakendorf's Collection, 156 samples: EGAD50000000006 see https://ega-archive.org/datasets/EGAD50000000006 
+
+##### AfricanNeo_C dataset, or Bostoen's Collection, 300 samples: EGAD50000000009 see https://ega-archive.org/datasets/EGAD50000000009 
+
+##### AfricanNeo_D dataset, or Delanghe's Collection, 151 samples: EGAD50000000010 see https://ega-archive.org/datasets/EGAD50000000010 
+
+##### AfricanNeo_E dataset, or Coetzee's Collection, 100 samples: EGAD50000000011 see https://ega-archive.org/datasets/EGAD50000000011 
+
+##### AfricanNeo_F dataset, or Ebbesen's Collection, 29 samples: EGAD50000000007 see https://ega-archive.org/datasets/EGAD50000000007 
+
 #
 ### AfricanNeo Data Access Committee ID: EGAC00001003398 see https://ega-archive.org/dacs/EGAC00001003398 
 #
