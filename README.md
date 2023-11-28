@@ -11,7 +11,7 @@ Acronyms:
 BSP means “Bantu-speaking populations” ; and 
 RHG means “African rainforest hunter-gatherers”
 
-# Main Figures
+## Main Figures
 
 ###### To visualise each figure from some panel you need to click on the taps at the top-corner left.
 ##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_1.html)
@@ -24,7 +24,7 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [Figure 5 | Migration routes and rates in BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_5.pdf)
 
-# Extended Data Figures and Tables
+## Extended Data Figures and Tables
 
 ##### [ED Fig. 1 | Geographical locations of modern and ancient populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_1.html)
 
@@ -47,9 +47,9 @@ RHG means “African rainforest hunter-gatherers”
 ##### [ED Table 2 | Genetic affinity of ancient individuals to modern BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_2.pdf)
 
 
-# Supplementary Material
+## Supplementary Material
 
-## 1- Geographical locations
+### 1- Geographical locations
 
 ##### [Supplementary Fig. 2a | Labels of all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_02a_Map.html)
 
@@ -66,7 +66,7 @@ RHG means “African rainforest hunter-gatherers”
 ##### [Supplementary Fig. 4d | Labels of all the populations included in the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04d_Map.html)
 
 
-## 2- Dimensionality reduction methods (DRM)
+### 2- Dimensionality reduction methods (DRM)
 
 ##### [Supplementary Fig. 6a | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_06a_UMAP.html)
 
@@ -96,27 +96,27 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [Supplementary Fig. 13d | GCAE approach for all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13d_GCAE.html)
 
-## 3- Other methods
+### 3- Other methods
 
-### - Genome-wide runs of homozygosity (ROH)
+#### - Genome-wide runs of homozygosity (ROH)
 
 ##### [Supplementary Fig. 40 | All categories of ROH length for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_40_All_ROH.html)
 
 ##### [Supplementary Fig. 41 | All categories of ROH length only for BSP included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_41_BSP_ROH.html)
 
-### - Effective population sizes estimated using IBDNe
+#### - Effective population sizes estimated using IBDNe
 
 ##### [Supplementary Fig. 49a | Estimated effective population sizes (Ne) for selected BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_49a_IBDNe.html)
 
 ##### [Supplementary Fig. 49b | Shaded areas of Suppl. Fig. 49a between the lower and the upper 95% confidence interval](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_49b_IBDNe.html)
 
-### - F<sub>ST</sub> map for the masked Only-BSP dataset. 
+#### - F<sub>ST</sub> map for the masked Only-BSP dataset. 
 
 ##### [Supplementary Fig. 83a | F<sub>ST</sub> map for all the BSP included in the AfricanNeo datase](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83a_Fst_Map.html)
 
 ##### [Supplementary Fig. 83b | F<sub>ST</sub> map for BSP included in the AfricanNeo dataset except for the Lozi population](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/03-Other_Methods/Suppl_Fig_83b_Fst_Map.html)
 
-## 4- Ancient DNA
+### 4- Ancient DNA
 
 ##### [Supplementary Fig. 95 | Geographical locations of aDNA individuals included in this study.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_95_aDNA_Map.html)
 
@@ -132,16 +132,16 @@ RHG means “African rainforest hunter-gatherers”
 
 ##### [Supplementary Fig. 97c | PCA-UMAP of aDNA individuals and present-day African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
 
-## 5- Supplementary Linguistic Data
+### 5- Supplementary Linguistic Data
 Cognates are lexical roots originating in one and the same ancestral lexeme which related languages share through inheritance from a common ancestor. Here, we provide updated cognacy judgments (5,355 in total) and a binary-coded root-meaning association matrix using Lexedata. This lexical dataset is available in Cross-Linguistic Data Format (CLDF; files: [cognates.csv, cognatesets.csv, forms.csv, languages.csv, parameters.csv, sources.bib, and Wordlist-metadata.json](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/tree/main/05-Linguistic_Data)).
 
 ###
-# Additional information
+### Additional information
 - This study was funded by the European Research Council (ERC) under the grant AfricanNeo (“The African Neolithic: A genetic perspective”; grant agreement ID: 759933), granted to Prof. Carina Schlebusch.
 
 - SNP array genotype data of modern-day African populations and whole-genome data of ancient DNA individuals generated in this project were made available through the European Genome-phenome Archive (EGA) data repository.
 #
-## EGA accessory numbers for data access:
+### EGA accessory numbers for data access:
 
 #### AfricanNeo aDNA Study EGA ID: EGAD00001011320 see https://ega-archive.org/datasets/EGAD00001011320
 Whole-genome sequencing data from 12 Late Iron Age individuals (6 from Zambia and 6 from South Africa).
