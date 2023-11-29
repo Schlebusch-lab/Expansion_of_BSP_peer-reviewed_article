@@ -39,9 +39,9 @@ https://www.nature.com/articles/s41586-023-06770-6).
 
 ##### &emsp;[ED Fig. 8 | ADMIXTURE proportions of ancient and modern populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Fig_8.pdf)
 
-##### [ED Table 1 | Genetic affinity of BSP to non-BSP estimated using f3-statistics](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_1.pdf)
+##### &emsp;[ED Table 1 | Genetic affinity of BSP to non-BSP estimated using f3-statistics](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_1.pdf)
 
-##### [ED Table 2 | Genetic affinity of ancient individuals to modern BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_2.pdf)
+##### &emsp;[ED Table 2 | Genetic affinity of ancient individuals to modern BSP](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-ExtData/ED_Table_2.pdf)
 
 
 ## Supplementary Material
@@ -117,17 +117,17 @@ https://www.nature.com/articles/s41586-023-06770-6).
 #
 ##### &emsp;[Supplementary Fig. 95 | Geographical locations of aDNA individuals included in this study.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_95_aDNA_Map.html)
 
-##### &emsp;[Supplementary Fig. 96_right column | PCA of aDNA and modern African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Colour.html)
+##### &emsp;[Supplementary Fig. 96_right column | PCA highlighting with colors present-day groups and aDNA individuals.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Colour.html)
 
-##### &emsp;[Supplementary Fig. 96_left column | PCA of aDNA and modern African populations. Only ancient DNA individuals were highlighted with colors](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Gray.html)
+##### &emsp;[Supplementary Fig. 96_left column | PCA highlighting with colors only aDNA individuals](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Gray.html)
 
-##### &emsp;[Supplementary Fig. 96 | PCA of aDNA and modern African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Population_Colour.html)
+##### &emsp;[Supplementary Fig. 96 | PCA highlighting with colors present-day populations and aDNA individuals.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Population_Colour.html)
 
-##### &emsp;[Supplementary Fig. 97a | PCA-UMAP of aDNA individuals and present-day African populations. Ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97a_PCA_aDNA.html)
+##### &emsp;[Supplementary Fig. 97a | PCA-UMAP highlighting with colors only aDNA individuals.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97a_PCA_aDNA.html)
 
-##### &emsp;[Supplementary Fig. 97b | PCA-UMAP of aDNA individuals and present-day African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97b_PCA_aDNA.html)
+##### &emsp;[Supplementary Fig. 97b | PCA-UMAP highlighting with colors present-day groups and aDNA individuals.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97b_PCA_aDNA.html)
 
-##### &emsp;[Supplementary Fig. 97c | PCA-UMAP of aDNA individuals and present-day African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
+##### &emsp;[Supplementary Fig. 97c | PCA-UMAP highlighting with colors present-day populations and aDNA individuals.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97c_PCA_aDNA.html)
 #
 
 ### 5- Supplementary Linguistic Data
