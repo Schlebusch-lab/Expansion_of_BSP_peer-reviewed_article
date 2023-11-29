@@ -54,7 +54,6 @@ https://www.nature.com/articles/s41586-023-06770-6).
 
 ##### [Supplementary Fig. 3b | Labels of all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_03b_Map.html)
 
-Supplementary Fig. 4
 ##### &emsp;[Supplementary Fig. 4a | Labels of all the groups included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04a_Map.html)
 
 ##### &emsp;[Supplementary Fig. 4b | Labels of all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/01-Maps/Suppl_Fig_04b_Map.html)
@@ -86,7 +85,6 @@ Supplementary Fig. 4
 
 ##### [Supplementary Fig. 12b | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_12b_PCA-UMAP.html)
 
-Supplementary Fig. 13
 ##### [Supplementary Fig. 13a | GCAE approach for all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13a_GCAE.html)
 
 ##### [Supplementary Fig. 13b | GCAE approach for all the populations included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/02-DRM/Suppl_Fig_13b_GCAE.html)
@@ -119,14 +117,12 @@ Supplementary Fig. 13
 #
 ##### [Supplementary Fig. 95 | Geographical locations of aDNA individuals included in this study.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_95_aDNA_Map.html)
 
-Supplementary Fig. 96
 ##### [Supplementary Fig. 96_right column | PCA of aDNA and modern African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Colour.html)
 
 ##### [Supplementary Fig. 96_left column | PCA of aDNA and modern African populations. Only ancient DNA individuals were highlighted with colors](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Group_Gray.html)
 
 ##### [Supplementary Fig. 96 | PCA of aDNA and modern African populations. Present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_96_PCA_aDNA_Population_Colour.html)
 
-Supplementary Fig. 97
 ##### [Supplementary Fig. 97a | PCA-UMAP of aDNA individuals and present-day African populations. Ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97a_PCA_aDNA.html)
 
 ##### [Supplementary Fig. 97b | PCA-UMAP of aDNA individuals and present-day African populations. Groups of present-day populations and ancient DNA individuals were highlighted with colors.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/04-aDNA/Suppl_Fig_97b_PCA_aDNA.html)
