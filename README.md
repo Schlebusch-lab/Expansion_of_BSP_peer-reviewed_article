@@ -149,7 +149,8 @@ Encrypted raw data are available for direct download in *.bam format.
 Genome-wide SNP data of 1,763 participants, including 1,526 Bantu speakers from 147 populations across 14 African countries.
 Encrypted raw autosomal data are available in *.tped and *.tfam format.
 
-##### - AfricanNeo_A dataset, or Soodyall's Collection, 1027 samples: EGAD50000000008 see https://ega-archive.org/datasets/EGAD50000000008 
+##### - AfricanNeo_A dataset, or Soodyall's Collection, 1027 samples: EGAD50000000008.
+##### See https://ega-archive.org/datasets/EGAD50000000008 
 
 ##### - AfricanNeo_B dataset, or Pakendorf's Collection, 156 samples: EGAD50000000006 see https://ega-archive.org/datasets/EGAD50000000006 
 
