@@ -8,7 +8,7 @@ https://www.nature.com/articles/s41586-023-06770-6).
 
 ###### Some figures were plotted together in the same file (e.g., different projections of the same PCA results). To visualise each figure from some panel you need to click on the taps at the top-corner left.
 ###### Of note, on the right side of the interactive plots there are different tools to scroll, zoom-in and zoom-out in the plot with the mouse (using Box Zoom, Wheel Zoom, Wheel Zoom on the y-axis, Zoom in on the x-axis, Undo, and Reset), or to Save the plots as a figure in high resolution (*.svg or *.png format). 
-###### Tools ![alt text](https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/main/03-Other_Methods/tools.png?raw=true)
+###### ![alt text](https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/main/03-Other_Methods/tools.png?raw=true)
 
 Acronyms: 
 BSP means “Bantu-speaking populations” ; and 
