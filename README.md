@@ -1,17 +1,14 @@
 ## This repository contains online material from the AfricanNeo Project (Fortes-Lima et al. ***Nature*** 2023).
-
 ###
 #### - Citation
 ***The genetic legacy of the expansion of Bantu-speaking peoples in Africa***
 . Cesar A. Fortes-Lima, Concetta Burgarella, Rickard Hammarén, Anders Eriksson, Mário Vicente, Cecile Jolly, Armando Semo, Hilde Gunnink, Sara Pacchiarotti, Leon Mundeke, Igor Matonda, Joseph Koni Muluwa, Peter Coutros, Terry S. Nyambe, Cirhuza Justin Cikomola, Vinet Coetzee, Minique de Castro, Peter Ebbesen, Joris Delanghe, Mark Stoneking, Larry Barham, Marlize Lombard, Anja Meyer, Maryna Steyn, Helena Malmström, Jorge Rocha, Himla Soodyall, Brigitte Pakendorf, Koen Bostoen, and Carina M. Schlebusch. 2023. doi: [10.1038/s41586-023-06770-6](
 https://www.nature.com/articles/s41586-023-06770-6).
 
-###### Of note, on the right side of the interactive plots there are different tools to scroll, zoom-in and zoom-out in the plot with the mouse (using Box Zoom, Wheel Zoom, Wheel Zoom on the y-axis, Zoom in on the x-axis, Undo, and Reset), or to Save the plots as a figure in high resolution (*.svg or *.png format). 
+###### Acronyms: BSP means “Bantu-speaking populations” and RHG means “African rainforest hunter-gatherers”
+###### Of note, some figures were plotted together in the same file (e.g., different projections of the same PCA results). To visualise each figure from some panel you need to click on the taps at the top-corner left.
+###### On the right side of the interactive plots there are different tools to scroll, zoom-in and zoom-out in the plot with the mouse (using Box Zoom, Wheel Zoom, Wheel Zoom on the y-axis, Zoom in on the x-axis, Undo, and Reset), or to Save the plots as a figure in high resolution (*.svg or *.png format). 
 ###### ![alt text](https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/main/03-Other_Methods/tools.png?raw=true)
-###### Some figures were plotted together in the same file (e.g., different projections of the same PCA results). To visualise each figure from some panel you need to click on the taps at the top-corner left.
-Acronyms:
-BSP means “Bantu-speaking populations” ; and 
-RHG means “African rainforest hunter-gatherers”
 
 ## Main Figures
 ##### [Figure 1 | Population structure within sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/main/00-Main_Fig.s/Fig_1.html)
