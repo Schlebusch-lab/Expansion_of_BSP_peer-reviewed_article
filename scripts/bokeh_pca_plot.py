@@ -40,7 +40,7 @@ parser.add_argument('-f', '--add_figure', default='', action='store')
 args = parser.parse_args()
 
 # Usage: 
-# python3 bokeh_pca_plot_PC1toPC10.py -i PCA_${DB}/${DB}.pca.evec -o ${DB} --title '' --which_pcs 1,2 -p PCA_${DB}/pattern.csv
+# python3 bokeh_pca_plot.py -i PCA_${DB}/${DB}.pca.evec -o ${DB} --title '' --which_pcs 1,2 -p PCA_${DB}/pattern.csv
 #
 
 
