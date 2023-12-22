@@ -178,34 +178,15 @@ plot.outline_line_color= 'black'
 outline_line_alpha= 1
 plot.outline_line_width= 2
 
-
 output_file('{}.html'.format(out))
 # print "Saving output to {}.html".format(out) 
 
 # Create panels
 # PC1vs2_panel = Panel(child=plot, title="PC"+str(which_pcs[0])+" vs "+"PC"+str(which_pcs[1]))
 
-# Assign the panels to Tabs
-# tabs = Tabs(tabs=[PC1vs2_panel])
-# show(tabs)
-
-# output_file('{}.html'.format(out))
-# print ("Saving output to {}.html".format(out))
-
-# Save plot
-# output_file('{}.html'.format(out))
-export_png(plot, filename=out+".png")
-plot.output_backend= "svg"
-export_svgs(plot, filename=out+".svg")
-show(plot)
-exit()
-
-
-#######################
-
 # To add the legend in the figure
 
-ncolumn=int(len(labels)+1)/5)
+ncolumn=int((len(labels)+1)/5)
 # print "populations=",len(fids),"pop/column",ncolumn
 legend1 = Legend(
     items=leg_1[0:ncolumn], location=(0, 30))
@@ -240,5 +221,20 @@ plot.add_tools(WheelZoomTool(), HoverTool(
 		 ]
 	 ))
 
-#
 
+# Assign the panels to Tabs
+# tabs = Tabs(tabs=[PC1vs2_panel])
+# show(tabs)
+
+# output_file('{}.html'.format(out))
+# print ("Saving output to {}.html".format(out))
+
+# Save plot
+# output_file('{}.html'.format(out))
+export_png(plot, filename=out+".png")
+plot.output_backend= "svg"
+export_svgs(plot, filename=out+".svg")
+show(plot)
+exit()
+
+#######################
