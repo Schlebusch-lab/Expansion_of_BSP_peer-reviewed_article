@@ -36,13 +36,14 @@ parser.add_argument('-w', '--plot_width', default='2500', help='comma-separated 
 parser.add_argument('-t', '--title', default='', action='store', help='Title of the plot')
 parser.add_argument('-a', '--add_info', default='', action='store', help='Additiona information for the plot')
 parser.add_argument('-f', '--add_figure', default='', action='store')
-
 args = parser.parse_args()
 
 # Usage: 
 # python3 bokeh_pca_plot.py -i PCA_${DB}/${DB}.pca.evec -o ${DB} --title '' --which_pcs 1,2 -p PCA_${DB}/pattern.csv
 #
-
+# awk '$1=$1' pattern.txt > pattern.csv; sed -i 's/ | /,/g' pattern.csv; sed -i 's/ | /,/g' pattern.csv; sed -i 's/| //g' pattern.csv; sed -i 's/ |/,/g' pattern.csv; sed -i '/-----+-----/d' pattern.csv; sed -i '1d' pattern.csv
+# sed 's/\t/,/g' pattern.csv > pattern.txt
+#
 
 evec = open(args.input)
 which_pcs = list(map(int, args.which_pcs.split(',')))
@@ -81,7 +82,7 @@ if args.pattern==None:
 	filling = ['aqua', 'bisque', 'black', 'blanchedalmond', 'blue', 'blueviolet', 'brown', 'burlywood', 'cadetblue', 'chartreuse', 'chocolate', 'coral', 'cornflowerblue', 'crimson', 'cyan', 'darkblue', 'darkcyan', 'darkgray', 'darkgreen', 'darkkhaki', 'darkmagenta', 'darkolivegreen', 'darkorange', 'darkorchid', 'darkred', 'darksalmon', 'darkseagreen', 'darkslateblue', 'darkslategray', 'darkturquoise', 'darkviolet', 'deeppink', 'deepskyblue', 'dimgray', 'dodgerblue', 'firebrick', 'forestgreen', 'fuchsia', 'gainsboro', 'gold', 'goldenrod', 'gray', 'green', 'greenyellow', 'hotpink', 'indianred', 'indigo', 'khaki', 'lavender', 'lawngreen', 'lemonchiffon', 'lime', 'limegreen', 'magenta', 'maroon', 'navy', 'olive', 'olivedrab', 'orange', 'orangered', 'orchid', 'palegoldenrod', 'palegreen', 'paleturquoise', 'palevioletred', 'papayawhip', 'peachpuff', 'peru', 'pink', 'plum', 'powderblue', 'purple', 'red', 'rosybrown', 'royalblue', 'saddlebrown', 'sandybrown', 'seagreen', 'sienna', 'silver', 'skyblue', 'slateblue', 'slategray', 'springgreen', 'steelblue', 'teal', 'tomato', 'turquoise', 'violet']
 	while len(filling) < len(fids):
 		filling.extend(filling)
-		filling=filling[0:len(fids)]
+	filling = random.sample(filling, len(fids))
 	
 	# Gradient color pattern such as infernoor Spectral6
 	#colours = inferno(len(fids))
@@ -211,7 +212,7 @@ plot.add_layout(legend5, 'right')
 
 plot.legend.location = "top_right"
 plot.legend.click_policy="hide"
-plot.legend.label_text_font_size = '10pt'
+plot.legend.label_text_font_size = '15pt'
 plot.legend.label_text_font_style = "bold"
 
 plot.add_tools(WheelZoomTool(), HoverTool(
