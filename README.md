@@ -6,8 +6,8 @@
 https://www.nature.com/articles/s41586-023-06770-6).
 
 ###### Acronyms: BSP means “Bantu-speaking populations” and RHG means “African rainforest hunter-gatherers”
-###### Of note, some figures were plotted together in the same file (e.g., different projections of the same PCA results). To visualise each figure from some panel you need to click on the taps at the top-corner left.
-###### On the right side of the interactive plots there are different tools to scroll, zoom-in and zoom-out in the plot with the mouse (using Box Zoom, Wheel Zoom, Wheel Zoom on the y-axis, Zoom in on the x-axis, Undo, and Reset), or to Save the plots as a figure in high resolution (*.svg or *.png format). 
+###### Of note, some figures were plotted together in the same file (e.g., different projections of the same PCA results). To visualise each figure from some panel, you need to click on the taps at the top-corner left.
+###### On the right side of the interactive plots there are different tools to scroll, zoom in and zoom out in the plot with the mouse (using Box Zoom, Wheel Zoom, Wheel Zoom on the y-axis, Zoom in on the x-axis, Undo, and Reset), or to save the plots as a figure in high resolution (*.svg or *.png format). 
 ###### ![alt text](https://github.com/Schlebusch-lab/Expansion_of_BSP_peer-reviewed_article/blob/main/03-Other_Methods/tools.png?raw=true)
 
 ## Main Figures
