@@ -2,7 +2,7 @@
 ###
 #### - Citation
 ***The genetic legacy of the expansion of Bantu-speaking peoples in Africa***
-. Cesar A. Fortes-Lima, Concetta Burgarella, Rickard Hammarén, Anders Eriksson, Mário Vicente, Cecile Jolly, Armando Semo, Hilde Gunnink, Sara Pacchiarotti, Leon Mundeke, Igor Matonda, Joseph Koni Muluwa, Peter Coutros, Terry S. Nyambe, Cirhuza Justin Cikomola, Vinet Coetzee, Minique de Castro, Peter Ebbesen, Joris Delanghe, Mark Stoneking, Larry Barham, Marlize Lombard, Anja Meyer, Maryna Steyn, Helena Malmström, Jorge Rocha, Himla Soodyall, Brigitte Pakendorf, Koen Bostoen, and Carina M. Schlebusch. 2023. doi: [10.1038/s41586-023-06770-6](
+. Fortes-Lima CA, Burgarella C, Hammarén R, Eriksson A, Vicente M, Jolly C, Semo A, Gunnink H, Pacchiarotti S, Mundeke L, Matonda I, Muluwa JK, Coutros P, Nyambe TS, Cikomola JC, Coetzee V, de Castro M, Ebbesen P, Delanghe J, Stoneking M, Barham L, Lombard M, Meyer A, Steyn M, Malmström H, Rocha J, Soodyall H, Pakendorf B, Bostoen K, and Schlebusch CM. ***Nature*** 2024, 625(7995):540-547. doi: [10.1038/s41586-023-06770-6](
 https://www.nature.com/articles/s41586-023-06770-6).
 
 ###### Acronyms: BSP means “Bantu-speaking populations” and RHG means “African rainforest hunter-gatherers”
