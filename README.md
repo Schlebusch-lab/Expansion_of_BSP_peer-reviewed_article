@@ -1,4 +1,4 @@
-## This repository contains online material from the AfricanNeo Project (Fortes-Lima et al. ***Nature*** 2024).
+## This repository contains online material from the AfricanNeo Project
 ###
 #### - Citation
 ***The genetic legacy of the expansion of Bantu-speaking peoples in Africa***
